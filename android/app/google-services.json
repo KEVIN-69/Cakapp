@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1071104583201",
+    "project_id": "projectcakapp",
+    "storage_bucket": "projectcakapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071104583201:android:f7f4bd081ce6735cf12560",
+        "android_client_info": {
+          "package_name": "com.example.projectcakapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071104583201-7dl3bbsnrpd0v4v76ac0v402f2u0ka7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectcakapp",
+            "certificate_hash": "2007b2a387a05c2e97b87b340cedd620bdbab8b9"
+          }
+        },
+        {
+          "client_id": "1071104583201-o4i5pq1lj8ca2hfaqsvp908cn3e0bopp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4aWeJj_hQzszKu9cP_7Ke-diizcXPtMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071104583201-o4i5pq1lj8ca2hfaqsvp908cn3e0bopp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
